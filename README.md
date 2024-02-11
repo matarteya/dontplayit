@@ -1,0 +1,2 @@
+# dontplayit
+playing without fun
